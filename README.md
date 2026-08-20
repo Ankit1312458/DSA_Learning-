@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0486-predict-the-winner) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
