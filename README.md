@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0486-predict-the-winner) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -114,6 +117,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
