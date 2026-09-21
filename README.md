@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0486-predict-the-winner) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ankit1312458/DSA_Learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3731-find-missing-elements) |
@@ -124,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ankit1312458/DSA_Learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
