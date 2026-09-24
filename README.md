@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0486-predict-the-winner) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ankit1312458/DSA_Learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankit1312458/DSA_Learning-/tree/master/3875-construct-uniform-parity-array-i) |
