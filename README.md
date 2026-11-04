@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0486-predict-the-winner) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ankit1312458/DSA_Learning-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Ankit1312458/DSA_Learning-/tree/master/0486-predict-the-winner) |
 ## Recursion
